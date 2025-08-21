@@ -49,10 +49,10 @@ https://github.com/Pranayreddykankanala/FPGA-based-defibrillators-using-ECG-sign
 ⦁	Algorithms: R-Peak Detection, FSM for arrhythmia detection, PWM-based waveform generation
 
 👩‍💻 Team Members
-M. Lakshmi Sravya 
-T. Tejaswini Reddy 
-K. Pranay Reddy 
-S. Bala Sai Ram 
+M. Lakshmi Sravya, 
+T. Tejaswini Reddy, 
+K. Pranay Reddy,
+S. Bala Sai Ram.
 
 Guided by: Dr. N. Phalguni Singh & Dr. Vijay Rao Kumbhare
 
